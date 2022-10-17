@@ -1,0 +1,97 @@
+header {
+    /* background-color: rgb(255, 137, 137); */
+    background-image: linear-gradient(red, white);
+}
+
+header img {
+    width: 10rem;
+    padding: 1rem;
+}
+
+header p {
+    display: inline;
+    color:white;
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+    position: relative;
+    padding: 2rem;
+    bottom:2rem;
+    left:60%;
+}
+
+.longcard {
+    background-color: rgb(212, 212, 212);
+    /* margin-top: 2rem; */
+}
+
+.longcard h2 {
+    font-size:xx-large;
+    font-weight: bold;
+    padding: 2rem;
+}
+
+.longcard p {
+    font-size:larger;
+    padding-left: 3rem;
+    width: 20%;
+}
+
+.longcard button {
+    width: 8rem;
+    height: 3rem;
+    border-radius: 2rem;
+    margin-left: 2rem;
+    margin-bottom:1.5rem;
+}
+
+.midcard {
+    background-color: rgb(235, 148, 148);
+    display: inline-block;
+    position: relative;
+    left: 20%;
+    width: 15rem;
+    margin: 2rem;
+    padding: 2rem;
+}
+
+.midcard h3 {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.midcard p {
+    padding-top: 2rem;
+}
+
+.midcard button {
+    width: 8rem;
+    height: 3rem;
+    border-radius: 2rem;
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+ .bottomcard {
+    background-color: rgb(235, 148, 148);
+    display:inline-block;
+    width: 50%;
+    height:7rem;
+    padding: 1rem;
+    margin:2rem;
+ }
+
+ .bcright {
+    width: 33%;
+ }
+
+ footer {
+    background-color: rgb(230, 230, 230);
+    border: 0.2rem solid;
+    border-color: rgb(99, 99, 99);
+    margin: 2rem;
+    padding: 1.5rem;
+}
+
+footer p {
+    text-align: center;
+}
